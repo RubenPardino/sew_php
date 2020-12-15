@@ -1,0 +1,22 @@
+/*001*/
+section {
+    font: normal 1em Tahoma, sans-serif; /*Familia sans-serif*/
+    line-height: 1.5;
+    border: 0.125em #000000 solid;
+    background-color: #94d3b1;
+    color:#000000;
+}
+
+/*001*/
+nav{
+    background-color: #2a2929;
+    padding: 0.8235294117647058em 0em;
+    color:#333333;
+}
+
+/*004*/
+nav form ul li{
+  display:inline;
+  list-style-type: none;
+  margin:0em 5em;
+}
