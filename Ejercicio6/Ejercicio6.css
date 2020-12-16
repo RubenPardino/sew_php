@@ -14,9 +14,20 @@ nav{
     color:#333333;
 }
 
+form input {
+    margin: 2em;
+    width: 20em;
+    height: 2em;
+}
+
 /*004*/
 nav form ul li{
   display:inline;
   list-style-type: none;
-  margin:0em 5em;
+  margin:2em 5em;
+  gap: 1em;
+}
+
+h1 {
+  text-align: center;
 }
